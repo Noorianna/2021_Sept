@@ -1,0 +1,5 @@
+Hi there, is is my first char stream file
+ this is my second line
+ Appended line
+ This is my first new appended line
+ This is my second new appended line

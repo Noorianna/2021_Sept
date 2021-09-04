@@ -1,0 +1,3 @@
+Hi there, is is my first char stream file
+ this is my second line
+ Appended line
